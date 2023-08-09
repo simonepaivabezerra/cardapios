@@ -1,0 +1,29 @@
+    boby,html{
+        margin: auto;
+        border:solid 10px rgb(252, 76, 23);
+        background-color: rgb(243, 194, 235);
+        
+        }
+         #destaque{
+            background-image: url(foto.jpg);
+             text-align: center;
+             color:rgb(14, 13, 13);
+             height: 300px;
+}
+
+    .item{
+        width: 15%;
+        border: 10px solid rgb(230, 80, 125);
+        float:left;
+        text-align: center;
+        padding: 2%;
+}
+
+#produtos{
+    text-align:justify;
+    clear:both;
+}
+footer{
+    clear:both;
+    text-align: centerS;
+}
